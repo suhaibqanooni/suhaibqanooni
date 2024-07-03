@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhaib Qanooni</h1>
+<h1 align="center">Suhaib Qanooni</h1>
 
 <img alt="coding" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s"/>
 <h3 align="center">Technically sophisticated professional with over 7 years of career coupled with demonstrated capability in MIS & Database Development, Software Engineering, Web Development, Network Administration, Project and Team Management 🤷‍♂️</h3>
