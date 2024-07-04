@@ -4,14 +4,6 @@
 <h3 align="center">Technically sophisticated professional with over 7 years of career coupled with demonstrated capability in MIS & Database Development, Software Engineering, Web Development, Network Administration, Project and Team Management 🤷‍♂️</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibqanooni&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibqanooni" /> </p>
 
-- 🔭 I’m currently working on [Building and Finance Management System](private)
-
-- 👨‍💻 All of my projects are available at [https://suhaib-qanooni.vercel.app/](https://suhaib-qanooni.vercel.app/)
-
-- 💬 Ask me about **React, Next, Node, Nest, DJango**
-
-- 📫 How to reach me **qanoonisuhaib@aol.com**
-
 - 📄 Know about my experiences [https://suhaib-qanooni.vercel.app/resume](https://suhaib-qanooni.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
