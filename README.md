@@ -1,6 +1,6 @@
 <img alt="coding" width="100%" src="https://media.licdn.com/dms/image/D4D16AQFvCcQQjEDl3g/profile-displaybackgroundimage-shrink_200_800/0/1710866550342?e=2147483647&v=beta&t=oyebztkpqTs_HB0kndi-zEB2U-iNdJnwgg-m3TGO4bs"/>
 
-<div style="width: 100%; height: 300px; background-image: url('banner.jpg'); background-size: cover; background-position: center;">
+<div style="width: 100%; height: 300px; background-image: url('./banner.jpg'); background-size: cover; background-position: center;">
   <h3>Suhaib Qanooni</h3>
 </div>
 <h3 align="center">- Technically sophisticated professional with over 7 years of career coupled with demonstrated capability in Management Information Systems, CRMs, ERPs, Database Administration, Financial Accounting Applications, Web Development, Network Administration, Project and Team Management 😊</h3>
