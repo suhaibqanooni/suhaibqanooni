@@ -2,7 +2,7 @@
 
 
 <h3 align="center">- Technically sophisticated professional with over 7 years of career coupled with demonstrated capability in Management Information Systems, CRMs, ERPs, Database Administration, Financial Accounting Applications, Web Development, Network Administration, Project and Team Management 😊</h3>
-
+<hr />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibqanooni&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibqanooni" /> </p>
 
 - 📄 <a href="https://suhaib-qanooni.vercel.app/resume" target="_blank">Resume</a>
