@@ -1,6 +1,7 @@
 <img alt="coding" width="100%" src="suhaib-banner.jpeg"/>
 
 <h4 align="center">- Technically sophisticated professional with over 7 years of career coupled with demonstrated capability in Management Information Systems, CRMs, ERPs, Database Administration, Financial Accounting Applications, Web Development, Network Administration, Project and Team Management. Proven track record of technical proficiency and strategic management across diverse IT domains. 😊</h4>
+
 <hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibqanooni&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibqanooni" /> </p>
