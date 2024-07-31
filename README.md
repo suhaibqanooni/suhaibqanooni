@@ -4,6 +4,7 @@
 <hr />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibqanooni&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibqanooni" /> </p>
+
 - 📄 <a href="https://suhaib-qanooni.vercel.app/resume" target="_blank">Resume</a>
 <h3 align="left">Skills:</h3>
 <p align="left"> 
