@@ -26,7 +26,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/1024px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/> </a> 
   <a href="https://notion.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/> </a> 
-  <a href="/" target="_blank" rel="noreferrer"> <img src=" https://cdn-icons-png.flaticon.com/512/2164/2164832.png" alt="notion" width="40" height="40"/> </a> 
+  <a href="/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png" alt="notion" width="40" height="40"/> </a> 
  
   
  </p>
