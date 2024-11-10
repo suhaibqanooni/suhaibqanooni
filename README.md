@@ -1,4 +1,4 @@
-<img alt="coding" width="100%" src="suhaib-banner.jpeg"/>
+<img alt="coding" width="100%" src="linkedin-cover.png"/>
 <img alt="coding" width="100%" src="cover.gif" />
 <h4 align="center">- Technically sophisticated professional with over 7 years of career coupled with demonstrated capability in Management Information Systems, CRMs, ERPs, Database Administration, Financial Accounting Applications, Web Development, Network Administration, Project and Team Management. Proven track record of technical proficiency and strategic management across diverse IT domains. 😊</h4>
 <hr />
