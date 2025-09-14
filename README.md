@@ -3,11 +3,9 @@
 <h4 align="center">- Technically sophisticated professional with over 7 years of career coupled with demonstrated capability in Management Information Systems, CRMs, ERPs, Database Administration, Financial Accounting Applications, Web Development, Network Administration, Project and Team Management. Proven track record of technical proficiency and strategic management across diverse IT domains. 😊</h4>
 
 <hr />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibqanooni&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibqanooni" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhaibqanooni" alt="suhaibqanooni" /></a> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibqanooni&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibqanooni" /> </p>
+
 - 📄 <a href="https://suhaib-qanooni.vercel.app/resume" target="_blank">Resume</a>
 <h3 align="left">Skills:</h3>
 <p align="left"> 
