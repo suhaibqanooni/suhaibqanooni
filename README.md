@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhaibqanooni" alt="suhaibqanooni" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sqanooni" target="blank"><img src="https://img.shields.io/twitter/follow/sqanooni?logo=twitter&style=for-the-badge" alt="sqanooni" /></a> </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaibqanooni&label=Profile%20views&color=0e75b6&style=flat" alt="suhaibqanooni" /> </p>
 - 📄 <a href="https://suhaib-qanooni.vercel.app/resume" target="_blank">Resume</a>
 <h3 align="left">Skills:</h3>
